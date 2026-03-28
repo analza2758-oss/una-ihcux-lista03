@@ -21,7 +21,7 @@ Durante a execução, são exibidas mensagens como:
 
 Essas mensagens permitem que o usuário acompanhe o progresso da operação, reduzindo incertezas e melhorando a experiência de uso.
 
-## ▶️ Como Executar
+## (https://github.com/analza2758-oss/una-ihcux-lista03/blob/main/una-ihcux-lista03.png)
 
 1. Acesse a pasta do projeto:
    cd ScannerExpert
