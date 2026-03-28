@@ -22,19 +22,13 @@ Durante a execução, são exibidas mensagens como:
 Essas mensagens permitem que o usuário acompanhe o progresso da operação, reduzindo incertezas e melhorando a experiência de uso.
 
 ## Evidência de Execução
-!![Print do terminal rodando o projeto]([./minha-evidencia.png](https://github.com/analza2758-oss/una-ihcux-lista03/blob/main/una-ihcux-lista03.png))
+!![Print do terminal rodando o projeto](una-ihcux-lista03.png)
 
 1. Acesse a pasta do projeto:
    cd ScannerExpert
 
 2. Execute o comando:
    dotnet run
-
-## 📸 Evidência
-
-A imagem abaixo mostra o sistema em execução exibindo a mensagem **[PROCESSANDO]**, comprovando que há feedback em tempo real ao usuário.
-
-!![Evidência do sistema]([minha-evidencia.png](https://github.com/analza2758-oss/una-ihcux-lista03/blob/main/una-ihcux-lista03.png))
 
 ## ✅ Conclusão
 
